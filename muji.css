@@ -1,0 +1,169 @@
+.body{
+    margin: 0px;
+    
+}
+
+.navbar{
+    display: flex;
+    margin-top: 15px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 13px;
+    color: #666666;
+    padding-top: 8px;
+}
+
+.muji-logo{
+    height: 20px;
+    width: 130px;
+    margin-left: 112.5px;
+    margin-right: 10px;
+}
+
+.product-info{
+    padding-left: 23px;
+    padding-top: 3px;
+    padding-right: 5px;
+}
+
+.store-info{
+    padding-left: 13px;
+    padding-top: 3px;
+    padding-right: 5px;
+}
+
+.news{
+    padding-left: 13px;
+    padding-top: 3px;
+    padding-right: 8px;
+}
+
+.about{
+    padding-left: 12px;
+    padding-top: 3px;
+    padding-right: 8px;
+}
+
+.contact{
+    padding-left: 12px;
+    padding-top: 3px;
+    padding-right: 5px;
+}
+
+.sale{
+    height: 640px;
+    width: 1024px;
+}
+
+.sale-pic{
+    padding-left: 110px;
+    padding-top: 23.5px;
+    margin-left: 2.5px;
+}
+
+.row1 , .row2{
+    border:  none;
+    border-width: .5px;
+    height: 150px;
+    width: 950px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 155.5px;
+    padding-left: 4.5px;
+    margin-top: 15.5px;
+}
+
+.pic1-row1 , .pic2-row1 , .pic3-row1 , .pic4-row1 , .pic1-row2 , 
+.pic2-row2 , .pic3-row2 , .pic4-row2 {
+    height: 150px;
+    width: 245px;
+    margin-right: 21.6px;
+    
+}
+
+.button:hover{
+    color: #bdbdbd;
+    transition: .1s;
+    cursor: pointer;
+}
+
+.row2{
+    padding-top: 5.8px;
+    margin-bottom: 10px;
+    padding-bottom: 13px;
+}
+
+.products{
+    display: flex;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 30px;
+}
+
+.pro-text{
+    color: black;
+    font-size: 18px;
+    font-weight: bold;
+    margin-left: 113px;
+    margin-top: 5px;
+}
+
+.info-text{
+    font-size: 14px;
+    padding-left: 810px;
+   
+}
+
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+}
+
+.arrow{
+    height: 14px;
+    width: 14px;
+    margin-top: 14.5px;
+    margin-bottom: 10px;
+    padding-bottom: 0px;
+    margin-left: 5px;
+}
+
+.row3{
+    border-color: black solid; border-width: 5px;
+    border:  none;
+    border-width: .5px;
+    height: 75px;
+    width: 1080px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 80px;
+    padding-left: 0px;
+    margin-top: 8.5px;
+    
+}
+
+.combo{
+    height: 60px;
+    width: 100px;
+    display: flex;
+    margin-right: 20px;
+}
+.row3-pics{
+    height: 40px;
+    width: 40px;
+}
+
+.combo-text{
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+    color: #666666;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.row3-pic1{
+    height: 50px;
+    width: 40px;
+}
